@@ -1,3 +1,14 @@
-<h1>Dit is een heading</h1>
-<p>dit is een paragraaf</p>
- <img src="https://www.allesoverdubai.info/wordpress/wp-content/uploads/2015/07/stranden-in-dubai-1680x700.jpg">
+h1{
+   font-family: 'gill Sans', 'gill Sans MT ', Calibri, 'Trebuchet MS', sans serif;
+   font-size: 20px;
+   color: aquamarine;
+}
+
+p{color: bisque;
+
+}
+
+.mijnafbeelding{
+    width: 100px;
+    height: 100px;
+}
